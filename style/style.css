@@ -1,0 +1,185 @@
+body {
+    background-color: rgb(255, 202, 134);
+    margin-left: 200px;
+}
+.left {
+    background-color: rgb(255, 255, 255);
+    width: 650px;
+    height: 400px;
+    vertical-align: top;
+    padding: 15px;
+    border-radius: 15px;
+    display: inline-block;
+}
+.clasiffication {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    width: 125px;
+}
+.pon {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(188, 188, 202);
+    width: 125px;
+    height: 18px;
+}
+.pon:hover {
+    background-color: rgba(255, 145, 67, 0.409);
+    border-radius: 3px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.left-lefttop-within {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(199, 199, 199);
+}
+.right {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    vertical-align: top;
+    height: 430px;
+    width: 300px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.classes{
+    display: inline-block;
+    vertical-align: top;
+    width: max-content;
+}
+
+.float{
+    padding-top: 15px;
+    padding-left: 10px;
+    height: 200px;
+    margin-left: 10px;
+    vertical-align: top;
+    border-radius: 10px;
+    width: 250px;
+    background-color: rgb(216, 216, 216);
+    display: inline-block;
+}
+.float-q {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+}.float-qq {
+    display: inline-block;
+    margin-left: 4px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: #ff3030;
+    border-radius: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+.float-img {
+    width: 150px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.float-w{
+    padding-top: 15px;
+    padding-left: 10px;
+    height: 200px;
+    margin-left: 10px;
+    vertical-align: top;
+    border-radius: 10px;
+    width: 200px;
+    background-color: rgb(216, 216, 216);
+    display: inline-block;
+}
+.float-ww {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+}.float-www {
+    display: inline-block;
+    margin-left: 4px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: rgb(169, 48, 255);
+    border-radius: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+.float-imgw {
+    width: 150px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.float-e{
+    padding-top: 15px;
+    padding-left: 10px;
+    height: 50px;
+    margin-left: 10px;
+    vertical-align: top;
+    border-radius: 10px;
+    width: 200px;
+    background-color: rgb(216, 216, 216);
+    display: inline-block;
+}
+.float-ee {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+}.float-eee {
+    display: inline-block;
+    margin-left: 4px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: rgb(169, 48, 255);
+    border-radius: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+.float-imge {
+    width: 150px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.floats {
+    background-color: aqua;
+}
+.right {
+    background-image: url(https://gw.alicdn.com/imgextra/i3/O1CN01hv61X127k1SbDU0ox_!!6000000007834-2-tps-310-200.png);
+    background-repeat: no-repeat;
+}
+.logo {
+    width: 50px;
+    height: auto;
+    margin-left: 120px;
+    border-radius: 100%;
+    margin-top: 40px;
+}
+.hi {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 135px;
+}
+.sign-in {
+    margin-left: 55px;
+    background-color: #e5814b;
+    border-color: #eb974e00;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 3px;
+    margin-top: 70px;
+    width: 90px;
+    height: 35px;
+    font-size: 14px;
+    color: aliceblue;
+}
+.sign-up {
+    margin-left: 20px;
+    background-color: #e5814b00;
+    border-color: #eb974e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 3px;
+    margin-top: 70px;
+    width: 90px;
+    height: 35px;
+    font-size: 14px;
+    color: #e5814b;
+}
