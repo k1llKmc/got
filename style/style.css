@@ -21,7 +21,7 @@ body {
     margin-top: 10px;
     font-size: 15px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(188, 188, 202);
+    color: rgb(188, 188, 188);
     width: 125px;
     height: 18px;
 }
@@ -29,7 +29,7 @@ body {
     background-color: rgba(255, 145, 67, 0.409);
     border-radius: 3px;
     cursor: pointer;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 .left-lefttop-within {
     width: 200px;
@@ -82,6 +82,7 @@ body {
     width: 150px;
     border-radius: 10px;
     margin-top: 15px;
+    cursor: pointer;
 }
 .float-w{
     padding-top: 15px;
@@ -111,6 +112,7 @@ body {
     width: 150px;
     border-radius: 10px;
     margin-top: 15px;
+    cursor: pointer;
 }
 .float-e{
     padding-top: 15px;
@@ -140,6 +142,7 @@ body {
     width: 150px;
     border-radius: 10px;
     margin-top: 15px;
+    cursor: pointer;
 }
 .floats {
     background-color: aqua;
@@ -182,4 +185,28 @@ body {
     height: 35px;
     font-size: 14px;
     color: #e5814b;
+}
+.sign-in {
+    cursor: pointer;
+}
+.sign-up {
+    cursor: pointer;
+}
+.exclusive {
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 210px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.s {
+    width: 40px;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.ss {
+    margin-left: 30px;
+    width: auto;
+    height: 40px;
 }
